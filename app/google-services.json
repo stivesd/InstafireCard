@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369901883646",
+    "project_id": "instafirecard",
+    "storage_bucket": "instafirecard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369901883646:android:d4bd3c5ec0384a1e4115af",
+        "android_client_info": {
+          "package_name": "com.example.instafirecard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsquvK7BOPTwQRfvlwnl7yvsUbczdyPUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
